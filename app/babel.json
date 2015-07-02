@@ -1,0 +1,9 @@
+{
+  "debug": false,
+  "verbose": false,
+  "extensions": [
+    "es6.js",
+    "es6"
+  ],
+  "stage": 0
+}

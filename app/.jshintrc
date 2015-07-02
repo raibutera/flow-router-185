@@ -1,0 +1,9 @@
+{
+    "globals":{
+        "Meteor": true,
+        "React": true,
+        "Packages": true,
+        "$": true
+    },
+    "esnext": true
+}
